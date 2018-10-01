@@ -6,8 +6,8 @@ setup(
     py_modules=['palindrome'],
 
     # metadata
-    author='Austin Bingham',
-    author_email='austin@sixty-north.com',
+    author='Akash Hadgali',
+    author_email='akashc777@gmail.com.com',
     description='A module for finding palindromic numbers.',
     license='Public domain',
     keywords='example',
